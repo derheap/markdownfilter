@@ -1,0 +1,6 @@
+name: Markdown
+type: module
+description: 'Provides a Markdown to HTML-Formatter.'
+package: derheap
+version: VERSION
+core: 8.x

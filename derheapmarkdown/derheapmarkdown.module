@@ -1,0 +1,4 @@
+<?php
+
+require_once DRUPAL_ROOT .'/libraries/php-markdown/Michelf/Markdown.php';
+require_once DRUPAL_ROOT .'/libraries/php-markdown/Michelf/MarkdownExtra.php';
