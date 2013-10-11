@@ -13,19 +13,19 @@ The filter relies on the [Markdown-Extra](http://michelf.ca/projects/php-markdow
 This should be the resulting structure:
 
     ├── README.txt
-	  ├── composer.json
-		├── composer.lock
-		├── core
-		├── example.gitignore
-		├── index.php
-		├── libraries/
-			└── php-markdown
-		├── modules
-			└── derheapmarkdown
-		├── profiles
-		├── robots.txt
-		├── sites
-		├── themes
-		└── web.config
+    ├── composer.json
+    ├── composer.lock
+    ├── core
+    ├── example.gitignore
+    ├── index.php
+    ├── libraries/
+        └── php-markdown
+    ├── modules
+    	└── derheapmarkdown
+    ├── profiles
+    ├── robots.txt
+    ├── sites
+    ├── themes
+    └── web.config
 
 Then you can activate the module and configure a new text format with the markwodn filter.
