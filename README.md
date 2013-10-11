@@ -28,4 +28,4 @@ This should be the resulting structure:
     ├── themes
     └── web.config
 
-Then you can activate the module and configure a new text format with the markwodn filter.
+Then you can activate the module and configure a new text format with the Markdown Extra filter.
